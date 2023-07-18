@@ -1,1 +1,1 @@
-New C programming
+Beginning with C
